@@ -1,1 +1,1 @@
-# full stack mern project
+# full stack MERN project
